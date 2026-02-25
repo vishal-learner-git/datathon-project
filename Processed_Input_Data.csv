@@ -1,0 +1,7 @@
+Customer_Id,Date,Daily_Sales_Percentage,Market_Share,Political,Marketing,Budget,Infrastructure_Machineries,Region,Predicted_Daily_Sales_Quantity
+CUST00001,2025-01-01,0.034463806,35,1,1,5000.56,Compactors,South Justinstad,-3.37
+CUST00002,2025-01-01,0.034463806,35,1,1,5000.56,Loaders (Wheeled),Sherrichester,-3.86
+CUST00003,2025-01-01,0.034463806,35,1,1,5000.56,Skid Steer Loaders,North Ryanstad,-4.85
+CUST00004,2025-01-01,0.034463806,35,1,1,5000.56,Backhoe Loader,South Christophermouth,-3.71
+CUST00007,2025-01-01,0.034463806,35,1,1,5000.56,Excavators(crawler),West Brandonburgh,-3.71
+CUST00009,2025-01-01,0.034463806,35,1,1,5000.56,Tele Handlers ,Stevenshire,-3.79
